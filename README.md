@@ -120,7 +120,7 @@ http://localhost:5173
 
 ---
 
-## 📚 Reading Experience
+## Reading Experience
 
 Each chapter follows a guided learning flow:
 
